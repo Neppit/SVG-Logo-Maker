@@ -18,6 +18,8 @@ A terminal based application which allows the user to automatically create an SV
 
 ## Usage
 The user must navigate to the project folder and run node index.js. They will then be prompted with a series of questions to determine their logo. Once they are finished, the logo will be generated in the same folder.
+[Demonstration](#https://app.screencastify.com/v2/manage/videos/jLOWx3PO4ICtOCKGL2VP)
+
 
 ## Credits
 AI Learning Assistants were used.
