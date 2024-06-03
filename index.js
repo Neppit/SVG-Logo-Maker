@@ -53,7 +53,7 @@ function createSVG(userInput) {
             return;
     }
 
-    const svg = shape.generateSVG();
+    const svg = shape.generateSVG(userInput.text, userInput.textColor);
 
     return svg;
 }
